@@ -1,0 +1,99 @@
+
+.about-h{
+    font-size: 33px;
+    text-align: center;
+}
+.border-style-top {
+    border-top: 1px solid blue !important;
+    width: 50px;
+    margin-top: 18%;
+    margin-left: 29px;
+}
+.border-style-top-lf{
+    border-top: 1px solid blue !important;
+    width: 50px;
+    margin-top: 18%;
+    margin-left: -11px;
+}
+
+
+    .form-wrap i {
+        position: absolute;
+        left: 18px;
+        top: 38px;
+        font-size: 17px;
+        color: #1a1a1a;
+        z-index: 1;
+    }
+    .comment-form .btn-custom {
+        margin-top: 30px;
+        background-color: #0c65ed;
+        color: #fff;
+        padding: 13px 22px 11px;
+        font-size: 18px;
+        overflow: hidden;
+    }
+    .comment-form .form-control:hover{
+        border-color: #0c65ed;
+    }
+    .btn-custom:hover{
+        background-color:black !important;
+    }
+
+
+.form-wrap .form-control {
+    padding-left: 35px;
+}
+.comment-form .form-control {
+    margin-top: 30px;
+    border: 0;
+    border-bottom: 1px solid #1a1a1a;
+    text-transform: capitalize;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-radius: 0;
+    -webkit-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+ .talk-us::after {
+    position: absolute;
+    content: "\f2a0";
+    left: 7%;
+    font-size: 100px;
+    font-family:"Font Awesome 5 Free";
+    color: #fff;
+    top: 50%;
+    width:80% ;
+    transform: translateY(-45%);
+    opacity: 0.3;
+    font-weight: bold;
+}
+
+.bb22 button:hover{
+    background-color: blue !important;
+    color:white;
+}
+
+.box-shadow11{
+    box-shadow: 0 0 18px 0 rgba(36, 36, 36, 0.5) !important;
+}
+.bpostion a{
+    position: fixed;
+    top :88%;
+    left: 92%;
+    color: white;
+    background-color:blue;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 25px;
+    line-height: 50px;
+    display:none;
+
+}
+.im12 img:hover{
+filter: brightness(0.30);;
+}

@@ -1,0 +1,22 @@
+.dropdown-item:focus, .dropdown-item:hover {
+    color:blue;
+    
+}
+.carousel-item img{
+    height: 600px;
+}
+.carousel-caption{
+    bottom: 13.25rem;
+}
+
+.carousel-indicators [data-bs-target]{
+    width: 15px;
+    height: 15px;
+}
+
+.carousel-indicators{
+    left: auto;
+}
+body{
+    background: black;
+}
